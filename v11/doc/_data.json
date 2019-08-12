@@ -33,8 +33,8 @@
         "_common": 
 		{
             "name": "Using the Java IBM Integration API - IIBv10 deprecated classes",
-            "shortDescription": "Learn how to use the ACEv11 Java IBM Integration API's com.ibm.broker.config.proxy.* classes. These classes are supported but deprecated in ACEv11, but this tutorial demonstrates how an IIBv10 application can easily be moved to run against ACEv11.",
-            "durationText": "This tutorial takes approximately",
+            "shortDescription": "Learn how to use the ACEv11 Java IBM Integration API's deprecated com.ibm.broker.config.proxy.* classes. This tutorial demonstrates how existing applications for adminstering IIBv10 can easily be updated to administer ACEv11.",
+			"durationText": "This tutorial takes approximately",
             "durationTime": "10 minutes",
             "_resourceToOpenComment": "The ID of the first resource to open when the user imports the tutorial. Resource IDs are defined in the repo_metadata.json Tutorials listing on ot4i.",
             "resourceToOpen": "MainFlow",
